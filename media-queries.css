@@ -1,4 +1,4 @@
-// hide main navbar when width is less of 1200px
+/* hide main navbar when width is less of 1200px */
 
 @media screen and (max-width: 1200px) {
     #desktop-nav {
